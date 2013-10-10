@@ -1,0 +1,30 @@
+.jqbar
+{
+    position: relative;
+    top: 200%;
+}
+
+.jqbar.horizontal .bar-label{
+    text-align: right;
+    width: 40%;
+}
+
+.jqbar.horizontal span
+{
+    display: inline-block;
+    margin-left: 1%;
+    font-size: 100%;
+    vertical-align: middle;
+    border-radius: 5px;
+}
+
+.jqbar.horizontal .bar-percent
+{
+    font-size: 100%;
+    vertical-align: middle;
+
+}
+
+.bars{
+    width: 100%
+}
