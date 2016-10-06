@@ -1,3 +1,3 @@
-# My Portfolio
+# My 2013 Portfolio
 
-This portfolio is super old. Like 2013? I should probably update it some time...
+If I were you, I'd just check out https://codepen.io/iammenasco for the latest stuff I've been working on. This thing is ancient, and I doubt I'll update it. Its not worth it.
